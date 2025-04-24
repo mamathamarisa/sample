@@ -1,0 +1,9 @@
+###
+POST http://localhost:4004/odata/v4/error/Products
+Content-Type: application/json
+
+{
+   "ID":"001",
+    "name":"Soap",
+    "stock": "01"
+}
